@@ -46,7 +46,7 @@ BOT_USERNAME = os.getenv("BOT_USERNAME", "AyakaXMusicBot")
 # 🛠️ Database & Deployment Configs
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-MONGO_DB_URI = os.getenv("MONGO_DB_URI","mongodb+srv://ahaan:ahaad@ahaan.hgkeruq.mongodb.net/?retryWrites=true&w=majority&appName=ahaan")
+MONGO_DB_URI = os.getenv("MONGO_DB_URI","mongodb+srv://ahad0181888:ahad0181888@cluster0.f9casz0.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
 LOG_GROUP_ID = int(os.getenv("LOG_GROUP_ID","-1002791009509"))
 HEROKU_APP_NAME = os.getenv("HEROKU_APP_NAME")
 HEROKU_API_KEY = os.getenv("HEROKU_API_KEY")
