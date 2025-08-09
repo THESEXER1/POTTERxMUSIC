@@ -78,7 +78,7 @@ COMMANDS = [
     BotCommand("jackpot", "🎰 Play jackpot"),
     BotCommand("bowling", "🎳 Play bowling"),
     BotCommand("ban", "🚫 Ban a user"),
-    BotCommand("banall", "⚠️ Ban all users"),
+    
     BotCommand("sban", "🧹 Delete & ban user"),
     BotCommand("tban", "⏳ Temporary ban"),
     BotCommand("unban", "✅ Unban a user"),
