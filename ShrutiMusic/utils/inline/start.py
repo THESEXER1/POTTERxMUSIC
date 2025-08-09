@@ -22,7 +22,6 @@
 from pyrogram.types import InlineKeyboardButton
 import config
 from ShrutiMusic import app
-
 def start_panel(_):
     buttons = [
         [
@@ -32,7 +31,6 @@ def start_panel(_):
             InlineKeyboardButton(text=_["S_B_2"], url=config.SUPPORT_GROUP),
         ],
         [
-            InlineKeyboardButton(text=_["E_X_1"], url=config.UPSTREAM_REPO),
             InlineKeyboardButton(text=_["S_B_11"], callback_data="about_page")  # About button
         ],
     ]
@@ -50,17 +48,9 @@ def private_panel(_):
             InlineKeyboardButton(
                 text=_["S_B_11"],
                 callback_data="about_page"
-            ),
-            InlineKeyboardButton(
-                text=_["S_B_12"],
-                callback_data="owner_page"
             )
         ],
         [
-            InlineKeyboardButton(
-                text=_["E_X_1"],
-                callback_data="fork_repo"
-            ),
             InlineKeyboardButton(text=_["S_B_5"], user_id=config.OWNER_ID),
         ],
         [
@@ -68,6 +58,7 @@ def private_panel(_):
         ],
     ]
     return buttons
+
 
 def about_panel(_):
     buttons = [
