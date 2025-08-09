@@ -38,9 +38,9 @@ load_dotenv()
 API_ID = int(os.getenv("API_ID","20536100"))
 API_HASH = os.getenv("API_HASH","5e3694deb111a38fe4aba250eb37af6a")
 BOT_TOKEN = os.getenv("BOT_TOKEN")
-OWNER_ID = int(os.getenv("OWNER_ID","8110730164"))
+OWNER_ID = int(os.getenv("OWNER_ID","7102636101"))
 OWNER_USERNAME = os.getenv("OWNER_USERNAME", "Iwarnher")
-BOT_USERNAME = os.getenv("BOT_USERNAME", "Pikachu_Music_Bot")
+BOT_USERNAME = os.getenv("BOT_USERNAME", "AyakaXMusicBot")
 
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 # 🛠️ Database & Deployment Configs
@@ -63,7 +63,7 @@ GIT_TOKEN = os.getenv("GIT_TOKEN", None)
 # 🔗 Support Links
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-SUPPORT_CHANNEL = os.getenv("SUPPORT_CHANNEL", "https://t.me/EX_BOT_UPDATES")
+SUPPORT_CHANNEL = os.getenv("SUPPORT_CHANNEL", "https://t.me/Ayaka_X_MusicBot")
 SUPPORT_GROUP = os.getenv("SUPPORT_GROUP", "https://t.me/+G42j7plUt91mYmQx")
 PRIVACY_LINK = os.getenv("PRIVACY_LINK", "https://graph.org/Privacy-Policy-05-01-30")
 
