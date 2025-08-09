@@ -39,7 +39,7 @@ API_ID = int(os.getenv("API_ID","20536100"))
 API_HASH = os.getenv("API_HASH","5e3694deb111a38fe4aba250eb37af6a")
 BOT_TOKEN = os.getenv("BOT_TOKEN")
 OWNER_ID = int(os.getenv("OWNER_ID","7102636101"))
-OWNER_USERNAME = os.getenv("OWNER_USERNAME", "Iwarnher")
+OWNER_USERNAME = os.getenv("OWNER_USERNAME", "Sexydeepkisser")
 BOT_USERNAME = os.getenv("BOT_USERNAME", "AyakaXMusicBot")
 
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
