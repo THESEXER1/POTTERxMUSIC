@@ -17,7 +17,7 @@
 # - Selling or using commercially
 #
 # Contact for permissions:
-# Email: badboy809075@gmail.com
+# Email: mickeypunisher@gmail.com
 
 
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -37,7 +37,7 @@ load_dotenv()
 
 API_ID = int(os.getenv("API_ID","20536100"))
 API_HASH = os.getenv("API_HASH","5e3694deb111a38fe4aba250eb37af6a")
-BOT_TOKEN = os.getenv("BOT_TOKEN")
+BOT_TOKEN = os.getenv("BOT_TOKEN", "8426390455:AAGV-RYXV5XwOdrrGM-Nn3asPovmLfCl0QA")
 OWNER_ID = int(os.getenv("OWNER_ID","7877864760"))
 OWNER_USERNAME = os.getenv("OWNER_USERNAME", "THESEXER")
 BOT_USERNAME = os.getenv("BOT_USERNAME", "ASTHAMUSICBOT")
@@ -47,7 +47,7 @@ BOT_USERNAME = os.getenv("BOT_USERNAME", "ASTHAMUSICBOT")
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 MONGO_DB_URI = os.getenv("MONGO_DB_URI","mongodb+srv://ahad0181888:ahad0181888@cluster0.f9casz0.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
-LOG_GROUP_ID = int(os.getenv("LOG_GROUP_ID","-1002791009509"))
+LOG_GROUP_ID = int(os.getenv("LOG_GROUP_ID","-1002795701403"))
 HEROKU_APP_NAME = os.getenv("HEROKU_APP_NAME")
 HEROKU_API_KEY = os.getenv("HEROKU_API_KEY")
 
