@@ -21,7 +21,7 @@
 
 
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-#     ⚙️ CONFIGURATION FILE | Powered By @WTF_WhyMeeh & @ShrutiBots
+#     ⚙️ CONFIGURATION FILE | Powered By @THESEXER & @XDUPDATE
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 import os
@@ -35,8 +35,8 @@ load_dotenv()
 # 📲 Telegram & API Credentials
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-API_ID = int(os.getenv("API_ID","20536100"))
-API_HASH = os.getenv("API_HASH","5e3694deb111a38fe4aba250eb37af6a")
+API_ID = int(os.getenv("API_ID","20856872"))
+API_HASH = os.getenv("API_HASH","ae713887c62d1dc675630bc18b61ad53")
 BOT_TOKEN = os.getenv("BOT_TOKEN", "8426390455:AAGV-RYXV5XwOdrrGM-Nn3asPovmLfCl0QA")
 OWNER_ID = int(os.getenv("OWNER_ID","7877864760"))
 OWNER_USERNAME = os.getenv("OWNER_USERNAME", "THESEXER")
