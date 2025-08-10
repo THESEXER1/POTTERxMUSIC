@@ -34,7 +34,7 @@
     },
     "OWNER_ID": {
       "description": "The user id of user whom you would like to add as OWNER.",
-      "value": "7574330905",
+      "value": "7877864760",
       "required": true
     },
     "OWNER_USERNAME": {
@@ -54,7 +54,7 @@
     },
     "STRING_SESSION": {
       "description": "A Pyrogram v2 String Session from Replit.",
-      "value": "",
+      "value": "BQE-QCgAS_iUFItvClTYJPrFh8pzSzWkF258SZRItJO2PS6DNBFbyKbQ7m4pZztPsPfssMzR7aRsM3S_BOMdWuEAqAWu0L5PO11y-Gy32zQeid0POZbRVvyFmOqb6_abUlzMTLrP6eYJdznwwuPvOGfPlIxp9fHCIyJAUf9F0XtoGYUBa32Hb2YShbeLxmCn5cBFImNUxPazgo2hrddrfVPx2jbH-FwiCEG02Dhp5ngDPhxBEbMvwc6yrAeiUeEPsxTyqr0aBQ-o7b17BoJcf00eLRLIDQW2OYG-fiE3Kb54S-ja1d0HXv9dPduyt_NbWKb2YrRVJilP90n8PsyfHE_-psZBlwAAAAH2QIO3AQ",
       "required": true
     },
     "GIT_TOKEN": {
@@ -74,7 +74,7 @@
     },
     "LOG_GROUP_ID": {
       "description": "Your Log Group ID, add your bot and promote as an admin with full rights!. Do not ever try to put channel ID here.",
-      "value": "-1002321189618",
+      "value": "-1002795701403",
       "required": true
     },
     "SUPPORT_GROUP": {
