@@ -1,5 +1,5 @@
 {
-  "name": "Shruti Music",
+  "name": "Astha Music",
   "description": "A Telegram Music Player Bot, written in Python with Pyrogram and Py-Tgcalls.",
   "logo": "https://files.catbox.moe/v7hio8.jpg",
   "keywords": [
@@ -39,12 +39,12 @@
     },
     "OWNER_USERNAME": {
       "description": "The username of the owner (without @)",
-      "value": "WTF_WhyMeeh",
+      "value": "THESEXER",
       "required": true
     },
     "BOT_USERNAME": {
       "description": "The username of your bot (without @)",
-      "value": "ShrutixMusicBot",
+      "value": "ASTHAMUSICBOT",
       "required": true
     },
     "UPSTREAM_REPO": {
@@ -79,22 +79,22 @@
     },
     "SUPPORT_GROUP": {
       "description": "Your support group username (without @)",
-      "value": "https://t.me/ShrutiBotsupport",
+      "value": "https://t.me/",
       "required": false
     },
     "SUPPORT_CHANNEL": {
       "description": "Your support channel username (without @)",
-      "value": "https://t.me/ShrutiBots",
+      "value": "https://t.me/XDUPDATE",
       "required": false
     },
     "INSTAGRAM": {
       "description": "Your Instagram profile link",
-      "value": "https://instagram.com/yaduwanshi_nand",
+      "value": "https://instagram.com/RAXXCAL",
       "required": false
     },
     "YOUTUBE": {
       "description": "Your YouTube channel link",
-      "value": "https://youtube.com/@NandEditz",
+      "value": "https://youtube.com/@XN_POTTER",
       "required": false
     },
     "GITHUB": {
