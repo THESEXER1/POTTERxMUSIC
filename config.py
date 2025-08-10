@@ -110,8 +110,8 @@ AUTO_LEAVING_ASSISTANT = bool(os.getenv("AUTO_LEAVING_ASSISTANT", False))
 # 🖼️ Image URLs (Can be customized)
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-START_IMG_URL = os.getenv("START_IMG_URL", "https://files.catbox.moe/wk8hlz.jpg")
-PING_IMG_URL = os.getenv("PING_IMG_URL", "https://files.catbox.moe/2kxtxa.jpg")
+START_IMG_URL = os.getenv("START_IMG_URL", "https://graph.org/file/a7f4cc4bc4718ea4cf67f-27414d0c60b51b2d9c.jpg")
+PING_IMG_URL = os.getenv("PING_IMG_URL", "https://graph.org/file/df95cd2d146640a887441-c863687b8dce58841d.jpg")
 PLAYLIST_IMG_URL = "https://files.catbox.moe/o4kpoo.jpg"
 STATS_IMG_URL = "https://files.catbox.moe/rwyek4.jpg"
 TELEGRAM_AUDIO_URL = "https://files.catbox.moe/2kxtxa.jpg"
@@ -162,7 +162,7 @@ if SUPPORT_GROUP:
         )
 
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-#     ✅ CONFIG LOADED SUCCESSFULLY | Designed By @WTF_WhyMeeh
+#     ✅ CONFIG LOADED SUCCESSFULLY | Designed By @THESEXER
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 
@@ -171,5 +171,5 @@ if SUPPORT_GROUP:
 # ===========================================
 # ©️ 2025 Nand Yaduwanshi (aka @NoxxOP)
 # 🔗 GitHub : https://github.com/NoxxOP/ShrutiMusic
-# 📢 Telegram Channel : https://t.me/ShrutiBots
+# 📢 Telegram Channel : https://t.me/XDUPDATE
 # ===========================================
