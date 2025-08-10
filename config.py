@@ -64,7 +64,7 @@ GIT_TOKEN = os.getenv("GIT_TOKEN", None)
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 SUPPORT_CHANNEL = os.getenv("SUPPORT_CHANNEL", "https://t.me/XDUPDATE")
-SUPPORT_GROUP = os.getenv("SUPPORT_GROUP", "https://t.me/+G42j7plUt91mYmQx")
+SUPPORT_GROUP = os.getenv("SUPPORT_GROUP", "https://t.me/+J83BOFDi2oQyYjI1")
 PRIVACY_LINK = os.getenv("PRIVACY_LINK", "https://graph.org/Privacy-Policy-05-01-30")
 
 
